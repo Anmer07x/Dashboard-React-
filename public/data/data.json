@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "duracion": "5",
+      "estado": "Exitosa",
+      "fecha": "2024-10-10 10:00 AM"
+    },
+    {
+      "id": 2,
+      "duracion": "3",
+      "estado": "Fallida",
+      "fecha": "2024-10-10 11:30 AM"
+    },
+    {
+      "id": 3,
+      "duracion": "8",
+      "estado": "En Proceso",
+      "fecha": "2024-10-10 01:15 PM"
+    }
+  ]
+  
