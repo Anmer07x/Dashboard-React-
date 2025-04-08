@@ -4,7 +4,7 @@ const Footer = () => {
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Dashboard de Llamadas. Todos los derechos reservados.
           <br />
-          Desarrollado por: <a href="https://www.linkedin.com/in/andr%C3%A9s-david-mena-renteria-b34463269/" className="underline">Andres David Mena Renteria</a>
+          Desarrollado por: <a href="https://www.linkedin.com/in/andr%C3%A9s-david-mena-renteria-b34463269/" className="underline">Andres David Mena </a>
         </p>
       </footer>
     );
